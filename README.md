@@ -1,6 +1,6 @@
 ## NYC Coffee Shop Sales Analytics ☕
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python&logoColor=white) ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square) ![License](https://img.shields.io/badge/Data-Open_Source-lightgrey?style=flat-square) ![alt text](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![alt text](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![alt text](https://img.shields.io/badge/Seaborn-Visualization-green?style=for-the-badge) ![alt text](https://img.shields.io/badge/BI-Analytics-yellow?style=for-the-badge)
+![alt text](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![alt text](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![alt text](https://img.shields.io/badge/Seaborn-Visualization-green?style=for-the-badge) ![alt text](https://img.shields.io/badge/BI-Analytics-yellow?style=for-the-badge)
 
 > **Executive Summary:** An analysis of sales patterns across three Maven Roasters locations in NYC (Astoria, Lower Manhattan, Hell's Kitchen). The project identifies key drivers of revenue, seasonal demand shifts, and opportunities for operational optimization.
 
